@@ -1,56 +1,76 @@
 export default `<!DOCTYPE html>
-<html lang="ar">
-  <head>
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-R97CVGTY0R"></script>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Capital Insurance Brokerage</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Capital Insurance Brokerage provides expert insurance solutions tailored to your needs, ensuring comprehensive coverage and peace of mind.">
+  <meta name="keywords" content="financial solutions, wealth management, capital, investment, finance">
+  <meta name="author" content="Capital Team">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#1976d2">
+
+  <!-- Fonts Preload -->
+  <link rel="preload" href="/assets/font/Alexandria-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+
+  <!-- Favicon and Icons -->
+  <link rel="icon" type="image/webp" href="assets/logo/logo.webp">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/logo/apple-touch-icon.png">
+  <!-- <link rel="manifest" href="/manifest.json"> -->
+
+  <!-- Canonical URL -->
+
+  <!-- <link rel="canonical" href="https://cairohere.com"> -->
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Capital Insurance Brokerage">
+  <meta property="og:description" content="Capital Insurance Brokerage provides expert insurance solutions tailored to your needs, ensuring comprehensive coverage and peace of mind.">
+  <meta property="og:image" content="assets/logo/logo.webp">
+  <meta property="og:url" content="https://cairohere.com">
+  <meta property="og:site_name" content="Capital">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Capital Insurance Brokerage">
+  <meta name="twitter:description" content="Capital Insurance Brokerage provides expert insurance solutions tailored to your needs, ensuring comprehensive coverage and peace of mind.">
+  <meta name="twitter:image" content="assets/logo/logo.webp">
+
+  <!-- Structured Data (JSON-LD) -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Capital Insurance Brokerage",
+      "url": "https://cairohere.com",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+  </script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-R97CVGTY0R');
+  (function() {
+    const lang = localStorage.getItem('language') || 'ar';
+    document.documentElement.lang = lang;
+    document.documentElement.dir = lang === 'ar' ? 'rtl' : 'ltr';
+  })();
 </script>
+<link rel="stylesheet" href="styles-ICLXQRXH.css"></head>
 
-<meta charset="utf-8"/>
-<title>MediTradeWebsite</title>
-<link rel="canonical" href="https://api.meditrade-eg.com/"/>
-<base href="/"/>
-<meta name="google-site-verification" content="OnnzW0eHAwX3euECYjxK28I2VIyDWH_di8y6X6BG8NI"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <meta name="description" content="MediTrade Website"/>
-    <!-- Open Graph to help social media platforms display your content correctly -->
-    <meta property="og:type" content="website"/>
-    <meta property="og:url" content="https://api.meditrade-eg.com/"/>
-    <meta property="og:title" content="MediTrade"/>
-    <meta property="og:description" content="MediTrade Website"/>
-
-    <meta property="og:image" content="https://api.meditrade-eg.com/favicon-96x96.png"/>
-    <meta property="og:locale" content="ar"/>
-    <meta property="og:locale:alternate" content="en"/>
-    <meta property="og:site_name" content="meditrade Developments"/>
-
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:url" content="https://api.meditrade-eg.com/"/>
-    <meta name="twitter:title" content="Darna"/>
-    <meta name="twitter:description" content="Meditrade Developments"/>
-
-    <!-- These help platforms like Facebook load your image faster and display it correctly. -->
-    <meta property="og:image:width" content="1200"/>
-    <meta property="og:image:height" content="630"/>
-
-    <link rel="icon" href="/favicon.ico"/>
-
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <link rel="icon" type="image/x-icon" href="/favicon.ico"/>
-    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96"/>
-    <link rel="shortcut icon" href="/favicon.ico"/>
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
-  <link rel="stylesheet" href="styles-7NSTMOMC.css"></head>
-  <body><script type="text/javascript" id="ng-event-dispatch-contract">(()=>{function p(t,n,r,o,e,i,f,m){return{eventType:t,event:n,targetElement:r,eic:o,timeStamp:e,eia:i,eirp:f,eiack:m}}function u(t){let n=[],r=e=>{n.push(e)};return{c:t,q:n,et:[],etc:[],d:r,h:e=>{r(p(e.type,e,e.target,t,Date.now()))}}}function s(t,n,r){for(let o=0;o<n.length;o++){let e=n[o];(r?t.etc:t.et).push(e),t.c.addEventListener(e,t.h,r)}}function c(t,n,r,o,e=window){let i=u(t);e._ejsas||(e._ejsas={}),e._ejsas[n]=i,s(i,r),s(i,o,!0)}window.__jsaction_bootstrap=c;})();
+<body dir="rtl"><script type="text/javascript" id="ng-event-dispatch-contract">(()=>{function p(t,n,r,o,e,i,f,m){return{eventType:t,event:n,targetElement:r,eic:o,timeStamp:e,eia:i,eirp:f,eiack:m}}function u(t){let n=[],r=e=>{n.push(e)};return{c:t,q:n,et:[],etc:[],d:r,h:e=>{r(p(e.type,e,e.target,t,Date.now()))}}}function s(t,n,r){for(let o=0;o<n.length;o++){let e=n[o];(r?t.etc:t.et).push(e),t.c.addEventListener(e,t.h,r)}}function c(t,n,r,o,e=window){let i=u(t);e._ejsas||(e._ejsas={}),e._ejsas[n]=i,s(i,r),s(i,o,!0)}window.__jsaction_bootstrap=c;})();
 </script>
-    <app-root></app-root>
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5ZGGRZR7"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <link rel="modulepreload" href="chunk-WJPVGFNK.js"><link rel="modulepreload" href="chunk-SJWGK2PM.js"><link rel="modulepreload" href="chunk-OIUPJU4M.js"><link rel="modulepreload" href="chunk-Q2UAIXRT.js"><link rel="modulepreload" href="chunk-3SP72VUM.js"><link rel="modulepreload" href="chunk-FVMTG52J.js"><link rel="modulepreload" href="chunk-Y5TCLEHD.js"><link rel="modulepreload" href="chunk-BBG7QOVJ.js"><link rel="modulepreload" href="chunk-UHEDFKCD.js"><link rel="modulepreload" href="chunk-TDZFEMQK.js"><script src="polyfills-JUTM3XWE.js" type="module"></script><script src="main-RWYY3SDU.js" type="module"></script></body>
+  <app-root></app-root>
+
+  <!-- Noscript fallback for SEO and accessibility -->
+  <noscript>
+    <div>
+      <h1>Welcome to Capital Insurance Brokerage</h1>
+      <p>Explore our Capital Insurance Brokerage Website </p>
+    </div>
+  </noscript>
+<link rel="modulepreload" href="chunk-YM7QCLFS.js"><link rel="modulepreload" href="chunk-3JLERSRU.js"><link rel="modulepreload" href="chunk-N2UPEPSN.js"><link rel="modulepreload" href="chunk-CDT4JKBG.js"><link rel="modulepreload" href="chunk-H3MPBSHT.js"><link rel="modulepreload" href="chunk-6NM7C4BK.js"><link rel="modulepreload" href="chunk-7F2FDTGS.js"><link rel="modulepreload" href="chunk-FP4TJFJT.js"><link rel="modulepreload" href="chunk-A2MXUSP4.js"><link rel="modulepreload" href="chunk-HK44TDLP.js"><script src="polyfills-B6TNHZQ6.js" type="module"></script><script src="main-EIYM6S5Q.js" type="module"></script></body>
 </html>
 `;
