@@ -20,201 +20,201 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-CJDDBUCV.js"
+      "chunk-XVLAR6SA.js"
     ],
     "route": "/*/login"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-OVAVZZXZ.js"
+      "chunk-TY3GSYCU.js"
     ],
     "route": "/*/set-password"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-LGCRN4VP.js"
+      "chunk-MMPLMLGL.js"
     ],
     "route": "/*/register"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-4IEOO6WO.js"
+      "chunk-QXCC4HIE.js"
     ],
     "route": "/*/reset-password"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-CHJL7S7J.js"
+      "chunk-TSP3FWXM.js"
     ],
     "route": "/*/claims-info"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VHGV7JTQ.js"
+      "chunk-ICPT72JW.js"
     ],
     "route": "/*/forgot-password"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-6FWHDU3J.js",
-      "chunk-NGJI7CA6.js"
+      "chunk-72ZHH6IR.js",
+      "chunk-SLEZ27HO.js"
     ],
     "route": "/*/profile"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-LDJWUJOU.js",
-      "chunk-NGJI7CA6.js"
+      "chunk-G2LU7G36.js",
+      "chunk-SLEZ27HO.js"
     ],
     "route": "/*/profile/edit-password"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-NFIGCFAL.js",
-      "chunk-EOU5VZPV.js",
-      "chunk-YPJ5JHJQ.js",
-      "chunk-TJ6EZ3DK.js"
+      "chunk-OA3USQRX.js",
+      "chunk-MJRTCEAG.js",
+      "chunk-BNBDVSVS.js",
+      "chunk-2B26AOEX.js"
     ],
     "route": "/*/medical-insurance"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-NMC7JWHG.js",
-      "chunk-YPJ5JHJQ.js",
-      "chunk-TJ6EZ3DK.js"
+      "chunk-RQ57P7MH.js",
+      "chunk-BNBDVSVS.js",
+      "chunk-2B26AOEX.js"
     ],
     "route": "/*/motor-insurance"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VEGFQTY7.js"
+      "chunk-OGAUPACH.js"
     ],
     "route": "/*/claims"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-CNH2VM7A.js"
+      "chunk-WQTTHH3T.js"
     ],
     "route": "/*/claims/*/*/comments"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-UIB6SXEC.js",
-      "chunk-EOU5VZPV.js",
-      "chunk-YPJ5JHJQ.js",
-      "chunk-TJ6EZ3DK.js"
+      "chunk-7FSW42ZP.js",
+      "chunk-MJRTCEAG.js",
+      "chunk-BNBDVSVS.js",
+      "chunk-2B26AOEX.js"
     ],
     "route": "/*/building-insurance"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-JTKQKSVP.js",
-      "chunk-EOU5VZPV.js",
-      "chunk-YPJ5JHJQ.js",
-      "chunk-TJ6EZ3DK.js"
+      "chunk-EFXTJJX3.js",
+      "chunk-MJRTCEAG.js",
+      "chunk-BNBDVSVS.js",
+      "chunk-2B26AOEX.js"
     ],
     "route": "/*/job-insurance"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-YTOD4CZK.js"
+      "chunk-XWEWSTKW.js"
     ],
     "route": "/*/contact"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-EL2DBN75.js",
-      "chunk-TJ6EZ3DK.js"
+      "chunk-OFKTBJOJ.js",
+      "chunk-2B26AOEX.js"
     ],
     "route": "/*/privacy-policy"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-5HXXA5KS.js"
+      "chunk-ENZ5RKC6.js"
     ],
     "route": "/*/about"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-4JVZKIUF.js"
+      "chunk-JWEVLJBW.js"
     ],
     "route": "/*/policies"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-KYNCCEEL.js"
+      "chunk-IDZLIFJT.js"
     ],
     "route": "/*/policies/*/*"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-DZLA4OYR.js",
-      "chunk-K6A2BCV5.js"
+      "chunk-2Q6TFMZ2.js",
+      "chunk-MQZO7NGL.js"
     ],
     "route": "/*/policies/*/*/corporate-details"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-H3Q4GH33.js",
-      "chunk-K6A2BCV5.js"
+      "chunk-AN23WHVH.js",
+      "chunk-MQZO7NGL.js"
     ],
     "route": "/*/policies/*/*/corporate-details/add"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-7VEGZ7LS.js"
+      "chunk-LVTDCM5H.js"
     ],
     "route": "/*/policies/*/*/comments"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-Q4DCMHT5.js",
-      "chunk-TJ6EZ3DK.js"
+      "chunk-LNY3K3BI.js",
+      "chunk-2B26AOEX.js"
     ],
     "route": "/*/blog/*"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-ZHMEF6SH.js",
-      "chunk-XHVKANXM.js"
+      "chunk-MZWE7TEN.js",
+      "chunk-7CBK3EL4.js"
     ],
     "route": "/*/english-blogs"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-DD52RATJ.js"
+      "chunk-6J4CB6SM.js"
     ],
     "route": "/*/notifications"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-KYQJPKDX.js",
-      "chunk-XHVKANXM.js"
+      "chunk-XJIEPJAJ.js",
+      "chunk-7CBK3EL4.js"
     ],
     "route": "/*/arabic-blogs"
   },
@@ -226,8 +226,8 @@ export default {
 ],
   entryPointToBrowserMapping: undefined,
   assets: {
-    'index.csr.html': {size: 15618, hash: '1c429295b5a2619de0cb7abf28d0982a9c4ab5f17a63e1bd9a1bddc99b5e5e5e', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
-    'index.server.html': {size: 4135, hash: '5dd26f206263a87150cd3143e5927dcb7834c60a2735852653625f869c6217a0', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
-    'styles-ICLXQRXH.css': {size: 118745, hash: 'hqXMByTGd28', text: () => import('./assets-chunks/styles-ICLXQRXH_css.mjs').then(m => m.default)}
+    'index.csr.html': {size: 15530, hash: '2c74837a89cfa4f7b45ceb0517c5edd5b8f96ef2e0dc2e77954927435454b469', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
+    'index.server.html': {size: 4047, hash: 'a51e1440ac58007581a1ee5c87a92dca2b2ff9a9f09b09a8c6e9f025fc75994b', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
+    'styles-5O2P34SF.css': {size: 118722, hash: 'oog9kb8YlTg', text: () => import('./assets-chunks/styles-5O2P34SF_css.mjs').then(m => m.default)}
   },
 };
